@@ -20,25 +20,24 @@
 #     break
 
 #Ejemplo 3
-x = 10 
-while True:
-    x -= 1
-    print(x)
-    if x == 0:
-        break
-    print("Fin del bucle")
+# x = 10 
+# while True:
+#     x -= 1
+#     print(x)
+#     if x == 0:
+#         break
+#     print("Fin del bucle")
 
-#Ejercicio 4
-chance = 1
-while chance <=3:
-    txt =input("Escribe si: ")
-    if txt == "si": 
-        print("Ok, lo conseguiste en el intento", chance)
-        break
-    chance += 1
-else:
-    print("Has gastado tus tres intentos")
+# #Ejercicio 4
+# chance = 1
+# while chance <=3:
+#     txt =input("Escribe si: ")
+#     if txt == "si": 
+#         print("Ok, lo conseguiste en el intento", chance)
+#         break
+#     chance += 1
+# else:
+#     print("Has gastado tus tres intentos")
 
 
    
- 
